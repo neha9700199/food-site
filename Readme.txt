@@ -3,7 +3,7 @@
 == Copyright (c) 2016 BootstrapThemes.co
 
 == http://BootstrapThemes.co
-
+== this is the updating done from my side
 
 Html Created by: http://bootstrapthemes.co
 
