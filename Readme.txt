@@ -1,9 +1,11 @@
-== Theme Name: Food And Restaurant Psd Template
+== Theme Name: Food and restaurant template
 
 == Copyright (c) 2016 BootstrapThemes.co
 
 == http://BootstrapThemes.co
 == this is the updating done from my side
+== PLEASE let us if any of the other or following inputs is required from our side.
+
 
 Html Created by: http://bootstrapthemes.co
 
@@ -16,7 +18,8 @@ Psd Created by: https://www.behance.net/gallery/32552907/Food-And-Restaurant-Psd
 Rights: 
 You are permitted to use the resources for any number of personal and commercial projects.
 You may modify the resources according to your requirements and include them into works, 
-such as websites, applications or other materials intended for sale. No attribution or 
+
+
 link back to this site is required, however any credit will be much appreciated.
 
 
