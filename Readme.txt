@@ -9,9 +9,9 @@ Html Created by: http://bootstrapthemes.co
 
 
 
-Psd Created by: https://www.behance.net/gallery/32552907/Food-And-Restaurant-Psd-Template
+Psd Created by: this has been created by a site i have no idea of. and we need to follow such instructions in order to remain focused.
 
-
+this is the fact document or we taking such things in account of removing the things that we have already done.
 
 Rights: 
 You are permitted to use the resources for any number of personal and commercial projects.
