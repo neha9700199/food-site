@@ -5,7 +5,7 @@
 == http://BootstrapThemes.co
 == this is the updating done from my side
 == PLEASE let us if any of the other or following inputs is required from our side.
-
+== this is the ReadMe.txt documentation that we are talking or taking care about.
 
 Html Created by: http://bootstrapthemes.co
 
