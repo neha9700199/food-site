@@ -27,7 +27,9 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: whoami
+        run: |
+          sudo usermod -a -G root knoldus
+          sudo cp -r * /var/www/html/
   DeployDev:
     name: Deploy to Dev
     if: github.event_name == 'pull_request'
