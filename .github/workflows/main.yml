@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: sudo cp -R $GITHUB_WORKSPACE/* /var/www/html/
+        run: whoami
   DeployDev:
     name: Deploy to Dev
     if: github.event_name == 'pull_request'
